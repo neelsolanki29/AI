@@ -62,6 +62,21 @@ The confusion matrix, accuracy score, precision, recall, sensitivity, F1 score, 
 || Logistic Regression | 78.77% |
 || Ada Boost | 80.01% |
 || Vote | 80.2% |
+| Archana Singh and Rakesh Kumar | KNN | 87% |
+|| SVM | 83% |
+|| Decision Tree | 79% |
+| Atharv Nikam et al. | Decision Tree | 73.13% |
+|| LGBM | 72.95% |
+|| XGB | 72.82% |
+| Ankur Gupta et al. | FAMD+RF | 93.44% |
+| Ashir Javeed et al. | Random Search Algorithm + Random Forest | 93.33% |
+| R.Jane Preetha Princy et al. | Decision Tree | 73% |
+|| Logistic Regression | 72% |
+|| SVM | 72% |
+| Senthilkumar Mohan et al. | HRFLM | 88.4% |
+| Propoesd (Our) Model | Gradient Boost | 95% |
+|| Ada Boost | 92.98% |
+|| XG Boost | 91.81% |
 
 ## Conclusion and Future Scope
 
