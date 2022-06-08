@@ -57,7 +57,11 @@ The confusion matrix, accuracy score, precision, recall, sensitivity, F1 score, 
 
 | Authors | Methods | Accuracy |
 | :---: | :---: | :---: |
-| M. Gjoreski et al. | Random Forest | 89& |
+| M. Gjoreski et al. | Random Forest | 89% |
+| Fatma Zahra Abdeldjouad et al. | MOEFC | 79.42% |
+|| Logistic Regression | 78.77% |
+|| Ada Boost | 80.01% |
+|| Vote | 80.2% |
 
 ## Conclusion and Future Scope
 
